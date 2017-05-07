@@ -1,0 +1,7 @@
+Permissions
+
+Record Audio - 
+android.permission.RECORD_AUDIO 
+
+Not used by the app, however one of the open source libraries https://github.com/nisrulz/sensey, 
+I have used to make shake gesture enabled widget does need it.
