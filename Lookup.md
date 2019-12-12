@@ -1,7 +1,8 @@
-*ADs*
+**ADs**
+
 I have used google admob ads in the application.
 
-*Permissions*
+**Permissions**
 
 1. receive data from Internet
 2. view network connections
