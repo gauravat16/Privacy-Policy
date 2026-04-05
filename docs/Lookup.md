@@ -1,3 +1,7 @@
+---
+title: Privacy Policy for Lookup
+---
+
 # Privacy Policy for Lookup
 
 Last updated: April 6, 2026
