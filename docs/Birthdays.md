@@ -2,8 +2,6 @@
 title: Privacy Policy for Birthdays!
 ---
 
-# Privacy Policy for Birthdays!
-
 This page describes the permissions used by the Birthdays! app and why they are needed.
 
 ## Permissions

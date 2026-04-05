@@ -2,8 +2,6 @@
 title: Privacy Policies
 ---
 
-# Privacy Policies
-
 This site contains privacy policies for the apps and services published in this repository.
 
 ## Apps

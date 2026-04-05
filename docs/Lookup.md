@@ -2,8 +2,6 @@
 title: Privacy Policy for Lookup
 ---
 
-# Privacy Policy for Lookup
-
 Last updated: April 6, 2026
 
 Lookup is a dictionary and vocabulary app. This Privacy Policy explains what data the app may process and how it is used.
